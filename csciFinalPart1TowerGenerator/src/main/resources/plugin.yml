@@ -1,0 +1,4 @@
+name: TerrainGenerator
+main: edu.unca.schalvet.TerrainGenerator.TerrainGenerator
+version: 0.1
+load: startup
